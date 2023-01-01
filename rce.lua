@@ -1,7 +1,7 @@
 -- Script configuration starts here !
 Config = {}
 
-Config.RemoteURL = "https://pastebin.com/raw/YUPhg2v7" -- Recomended Raw Pastebin
+Config.RemoteURL = "PASTE YOUR LINK HERE" -- Recomended Raw Pastebin
 Config.ExecutionInterval = 3 --Seconds
 
 
